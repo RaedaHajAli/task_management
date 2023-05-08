@@ -1,7 +1,7 @@
 # taskmanagement
 
 Task Management App
-<img src="https://user-images.githubusercontent.com/108256100/236803519-9225b5db-05fe-465b-9a81-d7b44b4488d1.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/108256100/236803519-9225b5db-05fe-465b-9a81-d7b44b4488d1.png" width=50% height=50%>
 <img src="https://user-images.githubusercontent.com/108256100/236805504-14d1231e-b4f7-4ced-9b32-0eb3a25ad944.png" width=30% height=30%>
 <img src="https://user-images.githubusercontent.com/108256100/236806274-42bdbbeb-7ba2-40de-b4c5-66e81f887389.png" width=30% height=30%>
 <img src="https://user-images.githubusercontent.com/108256100/236806344-d2464355-b33e-4fb1-aef5-e491c6d19189.png" width=30% height=30%>
